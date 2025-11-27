@@ -4,56 +4,56 @@
     "name": "Classic Black Hoodie",
     "price": 1999,
     "category": "Category A",
-    "image": "Images/hoodie_black.jpg"
+    "image": "/Images/hoodie_black.jpg"
   },
   {
     "id": 2,
     "name": "White Oversized Hoodie",
     "price": 2499,
     "category": "Category B",
-    "image": "Images/hoodie_white.jpg"
+    "image": "/Images/hoodie_white.jpg"
   },
   {
     "id": 3,
     "name": "Sporty Zip Hoodie",
     "price": 2899,
     "category": "Category A",
-    "image": "Images/hoodie_zip.jpg"
+    "image": "/Images/hoodie_zip.jpg"
   },
   {
     "id": 4,
     "name": "Slim Fit Jeans (Dark Wash)",
     "price": 1799,
     "category": "Category C",
-    "image": "Images/jeans_slim.jpg"
+    "image": "/Images/jeans_slim.jpg"
   },
   {
     "id": 5,
     "name": "Comfort Fit Track Pants",
     "price": 1499,
     "category": "Category B",
-    "image": "-Images/track_comfort.jpg"
+    "image": "/Images/track_comfort.jpg"
   },
   {
     "id": 6,
     "name": "Black Cargo Pants",
     "price": 1999,
     "category": "Category C",
-    "image": "Images/cargo_black.jpg"
+    "image": "/Images/cargo_black.jpg"
   },
   {
     "id": 7,
     "name": "Sports Dry-Fit Shirt",
     "price": 1299,
     "category": "Category A",
-    "image": "Images/shirt_dryfit.jpg"
+    "image": "/Images/shirt_dryfit.jpg"
   },
   {
     "id": 8,
     "name": "Gym Training Shorts",
     "price": 999,
     "category": "Category B",
-    "image": "Images/shorts_gym.jpg"
+    "image": "/Images/shorts_gym.jpg"
   },
   {
     "id": 9,
