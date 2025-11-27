@@ -95,7 +95,7 @@
     "name": "Baby shoes",
     "price": 1699,
     "category": "Category B",
-    "image": "Images/baby_shoes.jpg"
+    "image": "/Images/baby_shoes.jpg"
   },
   {
     "id": 15,
