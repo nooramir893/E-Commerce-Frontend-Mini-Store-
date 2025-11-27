@@ -88,7 +88,7 @@
     "name": "Cotton T-Shirt (Grey)",
     "price": 799,
     "category": "Category A",
-    "image": "Images/tshirt_grey.jpg"
+    "image": "/Images/tshirt_grey.jpg"
   },
   {
     "id": 14,
