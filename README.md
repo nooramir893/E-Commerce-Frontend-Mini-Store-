@@ -1,7 +1,4 @@
-
----
-
-# 🛍️ Full Ecommerce Web Application
+# 🛍️ E-Commerce Frontend (Mini Store)
 
 A feature-rich, responsive, and modern online clothing store built using **HTML, CSS, JavaScript, and JSON**.
 This project includes dynamic product loading, search, category filtering, cart system, checkout page, animations, and dark mode support.
