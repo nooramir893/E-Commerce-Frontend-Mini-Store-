@@ -130,7 +130,7 @@
     "name": "Winter Coat",
     "price": 6499,
     "category": "Category C",
-    "image": "Images/coat_winter.jpg"
+    "image": "/Images/coat_winter.jpg"
   },
   {
     "id": 20,
