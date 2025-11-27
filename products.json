@@ -1,1 +1,142 @@
-
+[
+  {
+    "id": 1,
+    "name": "Classic Black Hoodie",
+    "price": 1999,
+    "category": "Category A",
+    "image": "Images/hoodie_black.jpg"
+  },
+  {
+    "id": 2,
+    "name": "White Oversized Hoodie",
+    "price": 2499,
+    "category": "Category B",
+    "image": "Images/hoodie_white.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Sporty Zip Hoodie",
+    "price": 2899,
+    "category": "Category A",
+    "image": "Images/hoodie_zip.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Slim Fit Jeans (Dark Wash)",
+    "price": 1799,
+    "category": "Category C",
+    "image": "Images/jeans_slim.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Comfort Fit Track Pants",
+    "price": 1499,
+    "category": "Category B",
+    "image": "-Images/track_comfort.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Black Cargo Pants",
+    "price": 1999,
+    "category": "Category C",
+    "image": "Images/cargo_black.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Sports Dry-Fit Shirt",
+    "price": 1299,
+    "category": "Category A",
+    "image": "Images/shirt_dryfit.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Gym Training Shorts",
+    "price": 999,
+    "category": "Category B",
+    "image": "Images/shorts_gym.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Traditional Embroidered Kurta",
+    "price": 3299,
+    "category": "Category C",
+    "image": "Images/kurta_embroidered.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Classic Shalwar Kameez",
+    "price": 4599,
+    "category": "Category A",
+    "image": "Images/shalwar_kameez.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Leather Bifold Wallet",
+    "price": 899,
+    "category": "Accessories",
+    "image": "Images/wallet_leather.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Running Shoes (Red)",
+    "price": 3999,
+    "category": "Footwear",
+    "image": "Images/shoes_running.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Cotton T-Shirt (Grey)",
+    "price": 799,
+    "category": "Category A",
+    "image": "Images/tshirt_grey.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Baby shoes",
+    "price": 1699,
+    "category": "Category B",
+    "image": "Images/baby_shoes.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Denim Jacket",
+    "price": 3599,
+    "category": "Category C",
+    "image": "Images/jacket_denim.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Smart Watch (Series X)",
+    "price": 5999,
+    "category": "Electronics",
+    "image": "Images/smartwatch.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Wool Knit Beanie",
+    "price": 499,
+    "category": "Accessories",
+    "image": "Images/beanie.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Males Dress Shirt",
+    "price": 2199,
+    "category": "Category A",
+    "image": "Images/shirt_formal.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Winter Coat",
+    "price": 6499,
+    "category": "Category C",
+    "image": "Images/coat_winter.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Slip-on Casual Shoes",
+    "price": 2799,
+    "category": "Footwear",
+    "image": "Images/shoes_casual.jpg"
+  }
+]
