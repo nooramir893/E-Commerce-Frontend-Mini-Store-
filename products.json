@@ -67,7 +67,7 @@
     "name": "Classic Shalwar Kameez",
     "price": 4599,
     "category": "Category A",
-    "image": "Images/shalwar_kameez.jpg"
+    "image": "/Images/shalwar_kameez.jpg"
   },
   {
     "id": 11,
