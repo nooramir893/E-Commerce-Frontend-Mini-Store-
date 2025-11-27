@@ -137,6 +137,6 @@
     "name": "Slip-on Casual Shoes",
     "price": 2799,
     "category": "Footwear",
-    "image": "Images/shoes_casual.jpg"
+    "image": "/Images/shoes_casual.jpg"
   }
 ]
