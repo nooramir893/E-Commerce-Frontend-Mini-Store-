@@ -74,7 +74,7 @@
     "name": "Leather Bifold Wallet",
     "price": 899,
     "category": "Accessories",
-    "image": "Images/wallet_leather.jpg"
+    "image": "/Images/wallet_leather.jpg"
   },
   {
     "id": 12,
