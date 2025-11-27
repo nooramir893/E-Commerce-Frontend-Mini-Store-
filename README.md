@@ -30,7 +30,6 @@ online-clothing-store/
 │── script.js
 │── data.json
 │── favicon.jpeg
-│
 ├── images/
 │     ├── product1.jpg
 │     ├── product2.jpg
