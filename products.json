@@ -81,7 +81,7 @@
     "name": "Running Shoes (Red)",
     "price": 3999,
     "category": "Footwear",
-    "image": "Images/shoes_running.jpg"
+    "image": "/Images/shoes_running.jpg"
   },
   {
     "id": 13,
