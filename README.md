@@ -54,7 +54,7 @@ You can add unlimited products without touching HTML.
       "name": "Classic Hoodie",
       "category": "Hoodies",
       "price": 2500,
-      "image": "images/hoodie1.jpg"
+      "image": "Images/hoodie1.jpg"
     }
   ]
 }
