@@ -102,7 +102,7 @@
     "name": "Denim Jacket",
     "price": 3599,
     "category": "Category C",
-    "image": "Images/jacket_denim.jpg"
+    "image": "/Images/jacket_denim.jpg"
   },
   {
     "id": 16,
