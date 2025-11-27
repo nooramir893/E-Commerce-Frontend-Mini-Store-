@@ -109,7 +109,7 @@
     "name": "Smart Watch (Series X)",
     "price": 5999,
     "category": "Electronics",
-    "image": "Images/smartwatch.jpg"
+    "image": "/Images/smartwatch.jpg"
   },
   {
     "id": 17,
