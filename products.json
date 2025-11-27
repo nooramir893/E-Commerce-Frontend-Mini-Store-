@@ -60,7 +60,7 @@
     "name": "Traditional Embroidered Kurta",
     "price": 3299,
     "category": "Category C",
-    "image": "Images/kurta_embroidered.jpg"
+    "image": "/Images/kurta_embroidered.jpg"
   },
   {
     "id": 10,
