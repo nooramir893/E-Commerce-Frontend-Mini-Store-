@@ -116,7 +116,7 @@
     "name": "Wool Knit Beanie",
     "price": 499,
     "category": "Accessories",
-    "image": "Images/beanie.jpg"
+    "image": "/Images/beanie.jpg"
   },
   {
     "id": 18,
