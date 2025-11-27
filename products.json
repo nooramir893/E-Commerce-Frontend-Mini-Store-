@@ -123,7 +123,7 @@
     "name": "Males Dress Shirt",
     "price": 2199,
     "category": "Category A",
-    "image": "Images/shirt_formal.jpg"
+    "image": "/Images/shirt_formal.jpg"
   },
   {
     "id": 19,
